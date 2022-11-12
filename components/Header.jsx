@@ -41,7 +41,7 @@ const Header = () => {
         {/* logo */}
         <section className='mx-auto mb-5 flex flex-row justify-center'>
             <img
-            src='../assets/headImage.webp'
+            src='./../assets/headImage.webp'
             className='min-w-[300px] rounded-xl'
             />
         </section>
