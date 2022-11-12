@@ -1,5 +1,0 @@
-stack,objects,id,ts,file,line,level,message,dialogId,scriptsHash
-"["virtual_assistant:44,...,...,...,...,...,...,...,...,..."]","[{"type":"text","value":"TypeError: Cannot read property 'value' of undefined"}]",691941,2022-11-10T18:30:11.126Z,virtual_assistant,44,runTimeError,,5a959c10-6122-11ed-8299-b3136c36addb,84bb86e09fa9bfb4c1bd1f7dc905911820f1d820
-"[]","[{"type":"string","value":"reload scripts complete ✅"}]",691940,2022-11-10T18:29:56.667Z,,0,info,,,84bb86e09fa9bfb4c1bd1f7dc905911820f1d820
-"[]","[{"type":"string","value":"script: virtual_assistant - ok ✔"}]",691939,2022-11-10T18:29:56.620Z,virtual_assistant,0,info,,,84bb86e09fa9bfb4c1bd1f7dc905911820f1d820
-"[]","[{"type":"string","value":"reloading scripts..."}]",691938,2022-11-10T18:29:56.612Z,,0,info,,,84bb86e09fa9bfb4c1bd1f7dc905911820f1d820
