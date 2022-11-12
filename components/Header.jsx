@@ -33,7 +33,7 @@ const Header = () => {
                 title  : "sources",
                 list : "CNN, Wired, BBC NEWS, time, Icn, Al Jazzera English, ..."
             },
-            say : 'Show me the news from BCC news'
+            say : 'Show me the news from BBC news'
         }
     ]
   return (
