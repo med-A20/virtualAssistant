@@ -41,7 +41,7 @@ const Header = () => {
         {/* logo */}
         <section className='mx-auto mb-5 flex flex-row justify-center'>
             <img
-            src='https://yandex.com/images/search?pos=11&img_url=http%3A%2F%2Fd3npc921eoaj06.cloudfront.net%2Fwp-content%2Fuploads%2F2019%2F11%2F18142506%2Fai7.jpg&text=deep+learning&rpt=simage&lr=10138'
+            src='../public/assets/head.png'
             className='min-w-[300px] rounded-xl'
             />
         </section>
