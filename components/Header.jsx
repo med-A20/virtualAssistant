@@ -41,7 +41,7 @@ const Header = () => {
         {/* logo */}
         <section className='mx-auto mb-5 flex flex-row justify-center'>
             <img
-            src='../public/assets/head.png'
+            src='https://avatars.mds.yandex.net/i?id=b56973868ec849f158af3301e9f31be5-5241299-images-thumbs&n=13&exp=1'
             className='min-w-[300px] rounded-xl'
             alt='test'
             />
