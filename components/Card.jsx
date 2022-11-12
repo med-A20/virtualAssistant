@@ -51,7 +51,7 @@ const Card = ({ article, activeArticle, i }) => {
     }
       <div className={`card w-full`}>
         <div className="w-full mx-auto -mt-6">
-          <a href="https://www.material-tailwind.com" blur-shadow-image="true">
+          <a href={article.url} blur-shadow-image="true">
             <img
               className="w-auto rounded-lg shadow-xl shadow-cyan-50 -mt-7"
               src={article.urlToImage ? article.urlToImage: "../assets/news.webp"}
