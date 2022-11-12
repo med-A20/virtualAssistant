@@ -43,6 +43,7 @@ const Header = () => {
             <img
             src='../public/assets/head.png'
             className='min-w-[300px] rounded-xl'
+            alt='test'
             />
         </section>
 
